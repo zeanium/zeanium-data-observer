@@ -1,0 +1,1 @@
+zn.Class("zn.data.Iterable",{methods:{init:function(n){},all:function(){},any:function(){},each:function(){},toArray:function(){}}});

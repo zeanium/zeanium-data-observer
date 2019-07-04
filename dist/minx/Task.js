@@ -1,0 +1,1 @@
+zn.Class("zn.data.Task",{statics:{getInstance:function(t){return new this(t)},PANDING:0,WAITING:1,DOING:2,DONE:3},properties:{statue:0},methods:{init:function(t){this.sets(t)}}});
